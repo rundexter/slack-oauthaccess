@@ -1,0 +1,16 @@
+{
+  "inputs": [{
+    "id": "code",
+    "title":"Code",
+    "description": "Code typically generated from 'add to slack' button"
+  }],
+  "outputs": [{
+    "id": "access_token",
+    "title": "Access Token"
+  }],
+  "providers" : [{
+    "name" : "slack",
+    "scopes" : []
+  }],
+  "title": "Slack oAuth.Access" 
+}
