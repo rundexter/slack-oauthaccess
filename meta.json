@@ -12,5 +12,6 @@
     "name" : "slack",
     "scopes" : []
   }],
+  "icon" : "slack",
   "title": "Slack oAuth.Access" 
 }
